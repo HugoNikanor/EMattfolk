@@ -5,7 +5,7 @@ Welcome to my page! I'm Erik Mattfolk, and I am..
 * 🏎️ Competetive
 * 🔍 Curious
 
-Also, vim is cool.
+Also, Emacs is cool.
 
 <!--
 **EMattfolk/EMattfolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
